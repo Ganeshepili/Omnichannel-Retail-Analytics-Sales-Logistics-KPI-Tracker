@@ -1,0 +1,2 @@
+# Omnichannel-Retail-Analytics-Sales-Logistics-KPI-Tracker
+Advanced Excel dashboard for E-commerce analytics, tracking Sales, Distribution, and KPIs. Features interactive PivotTables, Slicers, and dynamic charts for real-time performance monitoring. Includes automated data cleaning and conditional formatting to highlight supply chain bottlenecks, providing actionable insights for retail optimization.
